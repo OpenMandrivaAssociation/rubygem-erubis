@@ -5,7 +5,7 @@ Summary:	a fast and extensible eRuby implementation which supports multi-languag
 Name:		rubygem-%{rbname}
 
 Version:	2.7.0
-Release:	1
+Release:	2
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
 URL:		http://www.kuwata-lab.com/erubis/
