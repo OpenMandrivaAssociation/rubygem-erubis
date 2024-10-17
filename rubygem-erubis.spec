@@ -8,7 +8,7 @@ Version:	2.7.0
 Release:	3
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
-URL:		http://www.kuwata-lab.com/erubis/
+URL:		https://www.kuwata-lab.com/erubis/
 Source0:	http://gems.rubyforge.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
 BuildArch:	noarch
